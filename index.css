@@ -1,0 +1,29 @@
+
+.card{
+    background-color:azure;
+    font-size: 10px;
+    padding: 15px;
+    margin: 10px;
+    border: 20px;
+    text-align: center;
+    justify-content: center;
+
+}
+input{
+    text-align: center;
+    height: 20px;
+}
+div{
+    text-align: center;
+    justify-content: center;
+
+}
+h1{
+    text-align: center;
+    
+}
+button{
+    height: 30px;
+    background-color: blue;
+    width: 60px;
+}
